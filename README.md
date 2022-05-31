@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am Jiaxin Ye. I graduated from Unversity of Ottawa with a Bachelor major in Computer Science and Economics. 
-I am interested in data science, machine learning and customer experience and how they all work together.
+I am interested in data science, machine learning and gathering insights from unstructured information.
 
 Programming Languages: Python, Java, JavaScript, SQL, HTML/CSS, R
 
