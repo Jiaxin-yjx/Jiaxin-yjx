@@ -19,4 +19,4 @@ I am interested in data science, machine learning and gathering insights from un
 
 Programming Languages: Python, Java, JavaScript, SQL, HTML/CSS, R
 
-📫 How to reach me: ashley_ye@outlook.com
+📫 How to reach me: 
